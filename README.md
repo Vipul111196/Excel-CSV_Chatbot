@@ -1,2 +1,2 @@
-### Practice git command
-- let me see what is the situation for the commit
+## Practice git command
+- lets make it fresh.
